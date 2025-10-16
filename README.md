@@ -4,12 +4,11 @@
 la idea principal del sistema consiste en poder facilitar el poder llevar el ciclo contable de cada año de forma facil de entender
 
 ## 2. Análisis y especificación de requisitiso
-
-## 3. Diseño
-
+ejemplo 1.
+oigan me gustaría que pusieran alguna cosa para poder evitar que tomen los datos contables de mi empresa sin mi consentimiento, algún método de registro podría ayudar en ese tema.
+ejemplo 2.
+podrían poner algo para evitar que me roben mis datos contables, ya pase una experiencia bastante fea con una empresa y no quiero que me vuelva a pasar
 ## 4. Implementación
-
-## 5. Plan de pruebas del sistema
 //**
 *clase de alumno
 /*
@@ -41,4 +40,6 @@ alumno[] lista={a1,a2,a3};
 
 curso c1=new curso("programacion",lista);
 c1.mostrarTodo();}}
+
+
 
